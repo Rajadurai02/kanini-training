@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome @ViewBag.Username</h1>
+    <h4 class="display-4">You selected role as @ViewBag.Role and  gender as @ViewBag.Gender </h4>
+    @foreach (var item in @ViewBag.Images)
+    {
+        <img src=@item class="img-thumbnail" alt="pizza image" /> 
+    }
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

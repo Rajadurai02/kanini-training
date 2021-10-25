@@ -1,0 +1,16 @@
+D:\Assignment\CSharpLogicsAug31\bin\Debug\net5.0\CSharpLogicsAug31.exe
+D:\Assignment\CSharpLogicsAug31\bin\Debug\net5.0\CSharpLogicsAug31.deps.json
+D:\Assignment\CSharpLogicsAug31\bin\Debug\net5.0\CSharpLogicsAug31.runtimeconfig.json
+D:\Assignment\CSharpLogicsAug31\bin\Debug\net5.0\CSharpLogicsAug31.runtimeconfig.dev.json
+D:\Assignment\CSharpLogicsAug31\bin\Debug\net5.0\CSharpLogicsAug31.dll
+D:\Assignment\CSharpLogicsAug31\bin\Debug\net5.0\ref\CSharpLogicsAug31.dll
+D:\Assignment\CSharpLogicsAug31\bin\Debug\net5.0\CSharpLogicsAug31.pdb
+D:\Assignment\CSharpLogicsAug31\obj\Debug\net5.0\CSharpLogicsAug31.csproj.AssemblyReference.cache
+D:\Assignment\CSharpLogicsAug31\obj\Debug\net5.0\CSharpLogicsAug31.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\CSharpLogicsAug31\obj\Debug\net5.0\CSharpLogicsAug31.AssemblyInfoInputs.cache
+D:\Assignment\CSharpLogicsAug31\obj\Debug\net5.0\CSharpLogicsAug31.AssemblyInfo.cs
+D:\Assignment\CSharpLogicsAug31\obj\Debug\net5.0\CSharpLogicsAug31.csproj.CoreCompileInputs.cache
+D:\Assignment\CSharpLogicsAug31\obj\Debug\net5.0\CSharpLogicsAug31.dll
+D:\Assignment\CSharpLogicsAug31\obj\Debug\net5.0\ref\CSharpLogicsAug31.dll
+D:\Assignment\CSharpLogicsAug31\obj\Debug\net5.0\CSharpLogicsAug31.pdb
+D:\Assignment\CSharpLogicsAug31\obj\Debug\net5.0\CSharpLogicsAug31.genruntimeconfig.cache

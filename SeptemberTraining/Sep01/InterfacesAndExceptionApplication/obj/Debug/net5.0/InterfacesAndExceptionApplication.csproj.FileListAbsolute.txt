@@ -1,0 +1,16 @@
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\obj\Debug\net5.0\InterfacesAndExceptionApplication.csproj.AssemblyReference.cache
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\obj\Debug\net5.0\InterfacesAndExceptionApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\obj\Debug\net5.0\InterfacesAndExceptionApplication.AssemblyInfoInputs.cache
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\obj\Debug\net5.0\InterfacesAndExceptionApplication.AssemblyInfo.cs
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\obj\Debug\net5.0\InterfacesAndExceptionApplication.csproj.CoreCompileInputs.cache
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\bin\Debug\net5.0\InterfacesAndExceptionApplication.exe
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\bin\Debug\net5.0\InterfacesAndExceptionApplication.deps.json
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\bin\Debug\net5.0\InterfacesAndExceptionApplication.runtimeconfig.json
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\bin\Debug\net5.0\InterfacesAndExceptionApplication.runtimeconfig.dev.json
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\bin\Debug\net5.0\InterfacesAndExceptionApplication.dll
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\bin\Debug\net5.0\ref\InterfacesAndExceptionApplication.dll
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\bin\Debug\net5.0\InterfacesAndExceptionApplication.pdb
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\obj\Debug\net5.0\InterfacesAndExceptionApplication.dll
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\obj\Debug\net5.0\ref\InterfacesAndExceptionApplication.dll
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\obj\Debug\net5.0\InterfacesAndExceptionApplication.pdb
+D:\SeptemberTraining\Sep01\InterfacesAndExceptionApplication\obj\Debug\net5.0\InterfacesAndExceptionApplication.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Assignment\demo_application\bin\Debug\net5.0\demo application.exe
+D:\Assignment\demo_application\bin\Debug\net5.0\demo application.deps.json
+D:\Assignment\demo_application\bin\Debug\net5.0\demo application.runtimeconfig.json
+D:\Assignment\demo_application\bin\Debug\net5.0\demo application.runtimeconfig.dev.json
+D:\Assignment\demo_application\bin\Debug\net5.0\demo application.dll
+D:\Assignment\demo_application\bin\Debug\net5.0\ref\demo application.dll
+D:\Assignment\demo_application\bin\Debug\net5.0\demo application.pdb
+D:\Assignment\demo_application\obj\Debug\net5.0\demo application.csproj.AssemblyReference.cache
+D:\Assignment\demo_application\obj\Debug\net5.0\demo application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\demo_application\obj\Debug\net5.0\demo application.AssemblyInfoInputs.cache
+D:\Assignment\demo_application\obj\Debug\net5.0\demo application.AssemblyInfo.cs
+D:\Assignment\demo_application\obj\Debug\net5.0\demo application.csproj.CoreCompileInputs.cache
+D:\Assignment\demo_application\obj\Debug\net5.0\demo application.dll
+D:\Assignment\demo_application\obj\Debug\net5.0\ref\demo application.dll
+D:\Assignment\demo_application\obj\Debug\net5.0\demo application.pdb
+D:\Assignment\demo_application\obj\Debug\net5.0\demo application.genruntimeconfig.cache

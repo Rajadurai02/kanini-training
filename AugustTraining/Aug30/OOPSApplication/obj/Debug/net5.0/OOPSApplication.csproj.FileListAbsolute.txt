@@ -1,0 +1,16 @@
+D:\Aug30\OOPSApplication\bin\Debug\net5.0\OOPSApplication.exe
+D:\Aug30\OOPSApplication\bin\Debug\net5.0\OOPSApplication.deps.json
+D:\Aug30\OOPSApplication\bin\Debug\net5.0\OOPSApplication.runtimeconfig.json
+D:\Aug30\OOPSApplication\bin\Debug\net5.0\OOPSApplication.runtimeconfig.dev.json
+D:\Aug30\OOPSApplication\bin\Debug\net5.0\OOPSApplication.dll
+D:\Aug30\OOPSApplication\bin\Debug\net5.0\ref\OOPSApplication.dll
+D:\Aug30\OOPSApplication\bin\Debug\net5.0\OOPSApplication.pdb
+D:\Aug30\OOPSApplication\obj\Debug\net5.0\OOPSApplication.csproj.AssemblyReference.cache
+D:\Aug30\OOPSApplication\obj\Debug\net5.0\OOPSApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aug30\OOPSApplication\obj\Debug\net5.0\OOPSApplication.AssemblyInfoInputs.cache
+D:\Aug30\OOPSApplication\obj\Debug\net5.0\OOPSApplication.AssemblyInfo.cs
+D:\Aug30\OOPSApplication\obj\Debug\net5.0\OOPSApplication.csproj.CoreCompileInputs.cache
+D:\Aug30\OOPSApplication\obj\Debug\net5.0\OOPSApplication.dll
+D:\Aug30\OOPSApplication\obj\Debug\net5.0\ref\OOPSApplication.dll
+D:\Aug30\OOPSApplication\obj\Debug\net5.0\OOPSApplication.pdb
+D:\Aug30\OOPSApplication\obj\Debug\net5.0\OOPSApplication.genruntimeconfig.cache

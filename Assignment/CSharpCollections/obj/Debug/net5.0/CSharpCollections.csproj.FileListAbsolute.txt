@@ -1,0 +1,16 @@
+D:\Assignment\CSharpCollections\bin\Debug\net5.0\CSharpCollections.exe
+D:\Assignment\CSharpCollections\bin\Debug\net5.0\CSharpCollections.deps.json
+D:\Assignment\CSharpCollections\bin\Debug\net5.0\CSharpCollections.runtimeconfig.json
+D:\Assignment\CSharpCollections\bin\Debug\net5.0\CSharpCollections.runtimeconfig.dev.json
+D:\Assignment\CSharpCollections\bin\Debug\net5.0\CSharpCollections.dll
+D:\Assignment\CSharpCollections\bin\Debug\net5.0\ref\CSharpCollections.dll
+D:\Assignment\CSharpCollections\bin\Debug\net5.0\CSharpCollections.pdb
+D:\Assignment\CSharpCollections\obj\Debug\net5.0\CSharpCollections.csproj.AssemblyReference.cache
+D:\Assignment\CSharpCollections\obj\Debug\net5.0\CSharpCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\CSharpCollections\obj\Debug\net5.0\CSharpCollections.AssemblyInfoInputs.cache
+D:\Assignment\CSharpCollections\obj\Debug\net5.0\CSharpCollections.AssemblyInfo.cs
+D:\Assignment\CSharpCollections\obj\Debug\net5.0\CSharpCollections.csproj.CoreCompileInputs.cache
+D:\Assignment\CSharpCollections\obj\Debug\net5.0\CSharpCollections.dll
+D:\Assignment\CSharpCollections\obj\Debug\net5.0\ref\CSharpCollections.dll
+D:\Assignment\CSharpCollections\obj\Debug\net5.0\CSharpCollections.pdb
+D:\Assignment\CSharpCollections\obj\Debug\net5.0\CSharpCollections.genruntimeconfig.cache

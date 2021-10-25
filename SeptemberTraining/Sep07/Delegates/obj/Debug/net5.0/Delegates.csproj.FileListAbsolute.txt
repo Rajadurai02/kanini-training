@@ -1,0 +1,16 @@
+D:\SeptemberTraining\Sep07\Delegates\bin\Debug\net5.0\Delegates.exe
+D:\SeptemberTraining\Sep07\Delegates\bin\Debug\net5.0\Delegates.deps.json
+D:\SeptemberTraining\Sep07\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.json
+D:\SeptemberTraining\Sep07\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.dev.json
+D:\SeptemberTraining\Sep07\Delegates\bin\Debug\net5.0\Delegates.dll
+D:\SeptemberTraining\Sep07\Delegates\bin\Debug\net5.0\ref\Delegates.dll
+D:\SeptemberTraining\Sep07\Delegates\bin\Debug\net5.0\Delegates.pdb
+D:\SeptemberTraining\Sep07\Delegates\obj\Debug\net5.0\Delegates.csproj.AssemblyReference.cache
+D:\SeptemberTraining\Sep07\Delegates\obj\Debug\net5.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeptemberTraining\Sep07\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfoInputs.cache
+D:\SeptemberTraining\Sep07\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfo.cs
+D:\SeptemberTraining\Sep07\Delegates\obj\Debug\net5.0\Delegates.csproj.CoreCompileInputs.cache
+D:\SeptemberTraining\Sep07\Delegates\obj\Debug\net5.0\Delegates.dll
+D:\SeptemberTraining\Sep07\Delegates\obj\Debug\net5.0\ref\Delegates.dll
+D:\SeptemberTraining\Sep07\Delegates\obj\Debug\net5.0\Delegates.pdb
+D:\SeptemberTraining\Sep07\Delegates\obj\Debug\net5.0\Delegates.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Aug30\InsurenceApplication\bin\Debug\net5.0\InsurenceApplication.exe
+D:\Aug30\InsurenceApplication\bin\Debug\net5.0\InsurenceApplication.deps.json
+D:\Aug30\InsurenceApplication\bin\Debug\net5.0\InsurenceApplication.runtimeconfig.json
+D:\Aug30\InsurenceApplication\bin\Debug\net5.0\InsurenceApplication.runtimeconfig.dev.json
+D:\Aug30\InsurenceApplication\bin\Debug\net5.0\InsurenceApplication.dll
+D:\Aug30\InsurenceApplication\bin\Debug\net5.0\ref\InsurenceApplication.dll
+D:\Aug30\InsurenceApplication\bin\Debug\net5.0\InsurenceApplication.pdb
+D:\Aug30\InsurenceApplication\obj\Debug\net5.0\InsurenceApplication.csproj.AssemblyReference.cache
+D:\Aug30\InsurenceApplication\obj\Debug\net5.0\InsurenceApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aug30\InsurenceApplication\obj\Debug\net5.0\InsurenceApplication.AssemblyInfoInputs.cache
+D:\Aug30\InsurenceApplication\obj\Debug\net5.0\InsurenceApplication.AssemblyInfo.cs
+D:\Aug30\InsurenceApplication\obj\Debug\net5.0\InsurenceApplication.csproj.CoreCompileInputs.cache
+D:\Aug30\InsurenceApplication\obj\Debug\net5.0\InsurenceApplication.dll
+D:\Aug30\InsurenceApplication\obj\Debug\net5.0\ref\InsurenceApplication.dll
+D:\Aug30\InsurenceApplication\obj\Debug\net5.0\InsurenceApplication.pdb
+D:\Aug30\InsurenceApplication\obj\Debug\net5.0\InsurenceApplication.genruntimeconfig.cache

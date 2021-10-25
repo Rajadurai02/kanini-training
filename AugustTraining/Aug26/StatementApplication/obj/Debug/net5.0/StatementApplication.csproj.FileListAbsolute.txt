@@ -1,0 +1,16 @@
+D:\Aug26\StatementApplication\bin\Debug\net5.0\StatementApplication.exe
+D:\Aug26\StatementApplication\bin\Debug\net5.0\StatementApplication.deps.json
+D:\Aug26\StatementApplication\bin\Debug\net5.0\StatementApplication.runtimeconfig.json
+D:\Aug26\StatementApplication\bin\Debug\net5.0\StatementApplication.runtimeconfig.dev.json
+D:\Aug26\StatementApplication\bin\Debug\net5.0\StatementApplication.dll
+D:\Aug26\StatementApplication\bin\Debug\net5.0\ref\StatementApplication.dll
+D:\Aug26\StatementApplication\bin\Debug\net5.0\StatementApplication.pdb
+D:\Aug26\StatementApplication\obj\Debug\net5.0\StatementApplication.csproj.AssemblyReference.cache
+D:\Aug26\StatementApplication\obj\Debug\net5.0\StatementApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aug26\StatementApplication\obj\Debug\net5.0\StatementApplication.AssemblyInfoInputs.cache
+D:\Aug26\StatementApplication\obj\Debug\net5.0\StatementApplication.AssemblyInfo.cs
+D:\Aug26\StatementApplication\obj\Debug\net5.0\StatementApplication.csproj.CoreCompileInputs.cache
+D:\Aug26\StatementApplication\obj\Debug\net5.0\StatementApplication.dll
+D:\Aug26\StatementApplication\obj\Debug\net5.0\ref\StatementApplication.dll
+D:\Aug26\StatementApplication\obj\Debug\net5.0\StatementApplication.pdb
+D:\Aug26\StatementApplication\obj\Debug\net5.0\StatementApplication.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Aug25\Projects\CompanyApplication\bin\Debug\net5.0\CompanyApplication.exe
+D:\Aug25\Projects\CompanyApplication\bin\Debug\net5.0\CompanyApplication.deps.json
+D:\Aug25\Projects\CompanyApplication\bin\Debug\net5.0\CompanyApplication.runtimeconfig.json
+D:\Aug25\Projects\CompanyApplication\bin\Debug\net5.0\CompanyApplication.runtimeconfig.dev.json
+D:\Aug25\Projects\CompanyApplication\bin\Debug\net5.0\CompanyApplication.dll
+D:\Aug25\Projects\CompanyApplication\bin\Debug\net5.0\ref\CompanyApplication.dll
+D:\Aug25\Projects\CompanyApplication\bin\Debug\net5.0\CompanyApplication.pdb
+D:\Aug25\Projects\CompanyApplication\obj\Debug\net5.0\CompanyApplication.csproj.AssemblyReference.cache
+D:\Aug25\Projects\CompanyApplication\obj\Debug\net5.0\CompanyApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aug25\Projects\CompanyApplication\obj\Debug\net5.0\CompanyApplication.AssemblyInfoInputs.cache
+D:\Aug25\Projects\CompanyApplication\obj\Debug\net5.0\CompanyApplication.AssemblyInfo.cs
+D:\Aug25\Projects\CompanyApplication\obj\Debug\net5.0\CompanyApplication.csproj.CoreCompileInputs.cache
+D:\Aug25\Projects\CompanyApplication\obj\Debug\net5.0\CompanyApplication.dll
+D:\Aug25\Projects\CompanyApplication\obj\Debug\net5.0\ref\CompanyApplication.dll
+D:\Aug25\Projects\CompanyApplication\obj\Debug\net5.0\CompanyApplication.pdb
+D:\Aug25\Projects\CompanyApplication\obj\Debug\net5.0\CompanyApplication.genruntimeconfig.cache

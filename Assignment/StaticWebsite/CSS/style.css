@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+
+    
+}
+header,footer{
+    margin-top: 5px;
+    margin-left: 570px;
+}
+#Menu{
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: rgb(234, 234, 250);
+  
+    overflow: hidden;
+    height: 40px;
+    width: 100%;
+}
+#Menu a {
+    float: left;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    padding:14px 40px;
+}
+.shoes{
+    width: 280px;
+    height: 450px;
+    position: relative;
+    margin: 13px 12px;
+    float: left;
+    background-color: rgb(230, 233, 233);
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba (0,0,0.2), 0 6px 20px 0 rgba(0,0,0.19);
+}
+h4,h2,p{
+    padding-left: 10px;
+}
+h2{
+    font-weight: bolder;
+}
+em{
+    color: green;
+}
+.shoes:hover{
+    box-shadow: 3px 6px 4px grey;
+}

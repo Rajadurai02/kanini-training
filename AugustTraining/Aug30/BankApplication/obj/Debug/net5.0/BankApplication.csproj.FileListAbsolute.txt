@@ -1,0 +1,16 @@
+D:\Aug30\BankApplication\bin\Debug\net5.0\BankApplication.exe
+D:\Aug30\BankApplication\bin\Debug\net5.0\BankApplication.deps.json
+D:\Aug30\BankApplication\bin\Debug\net5.0\BankApplication.runtimeconfig.json
+D:\Aug30\BankApplication\bin\Debug\net5.0\BankApplication.runtimeconfig.dev.json
+D:\Aug30\BankApplication\bin\Debug\net5.0\BankApplication.dll
+D:\Aug30\BankApplication\bin\Debug\net5.0\ref\BankApplication.dll
+D:\Aug30\BankApplication\bin\Debug\net5.0\BankApplication.pdb
+D:\Aug30\BankApplication\obj\Debug\net5.0\BankApplication.csproj.AssemblyReference.cache
+D:\Aug30\BankApplication\obj\Debug\net5.0\BankApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aug30\BankApplication\obj\Debug\net5.0\BankApplication.AssemblyInfoInputs.cache
+D:\Aug30\BankApplication\obj\Debug\net5.0\BankApplication.AssemblyInfo.cs
+D:\Aug30\BankApplication\obj\Debug\net5.0\BankApplication.csproj.CoreCompileInputs.cache
+D:\Aug30\BankApplication\obj\Debug\net5.0\BankApplication.dll
+D:\Aug30\BankApplication\obj\Debug\net5.0\ref\BankApplication.dll
+D:\Aug30\BankApplication\obj\Debug\net5.0\BankApplication.pdb
+D:\Aug30\BankApplication\obj\Debug\net5.0\BankApplication.genruntimeconfig.cache

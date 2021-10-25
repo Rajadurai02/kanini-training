@@ -1,0 +1,16 @@
+D:\SeptemberTraining\Sep15\ThreadingApplication\bin\Debug\net5.0\ThreadingApplication.exe
+D:\SeptemberTraining\Sep15\ThreadingApplication\bin\Debug\net5.0\ThreadingApplication.deps.json
+D:\SeptemberTraining\Sep15\ThreadingApplication\bin\Debug\net5.0\ThreadingApplication.runtimeconfig.json
+D:\SeptemberTraining\Sep15\ThreadingApplication\bin\Debug\net5.0\ThreadingApplication.runtimeconfig.dev.json
+D:\SeptemberTraining\Sep15\ThreadingApplication\bin\Debug\net5.0\ThreadingApplication.dll
+D:\SeptemberTraining\Sep15\ThreadingApplication\bin\Debug\net5.0\ref\ThreadingApplication.dll
+D:\SeptemberTraining\Sep15\ThreadingApplication\bin\Debug\net5.0\ThreadingApplication.pdb
+D:\SeptemberTraining\Sep15\ThreadingApplication\obj\Debug\net5.0\ThreadingApplication.csproj.AssemblyReference.cache
+D:\SeptemberTraining\Sep15\ThreadingApplication\obj\Debug\net5.0\ThreadingApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeptemberTraining\Sep15\ThreadingApplication\obj\Debug\net5.0\ThreadingApplication.AssemblyInfoInputs.cache
+D:\SeptemberTraining\Sep15\ThreadingApplication\obj\Debug\net5.0\ThreadingApplication.AssemblyInfo.cs
+D:\SeptemberTraining\Sep15\ThreadingApplication\obj\Debug\net5.0\ThreadingApplication.csproj.CoreCompileInputs.cache
+D:\SeptemberTraining\Sep15\ThreadingApplication\obj\Debug\net5.0\ThreadingApplication.dll
+D:\SeptemberTraining\Sep15\ThreadingApplication\obj\Debug\net5.0\ref\ThreadingApplication.dll
+D:\SeptemberTraining\Sep15\ThreadingApplication\obj\Debug\net5.0\ThreadingApplication.pdb
+D:\SeptemberTraining\Sep15\ThreadingApplication\obj\Debug\net5.0\ThreadingApplication.genruntimeconfig.cache
