@@ -14,8 +14,8 @@ namespace FinalFlowerAPIApplication.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [EnableCors("Policy")]
     //[Authorize]
+    [EnableCors("Policy")]
     public class FlowerController : ControllerBase
     {
         private readonly FlowerService _service;
